@@ -1,0 +1,28 @@
+html{
+    background: lightgreen;
+}
+
+body{}
+
+h1 {
+    font-size: 60px;
+    color: darkblue;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    color: darkgreen;
+    text-align: center;
+}
+	
+#mainPage {
+   position: right;
+   width: 700px;
+   height: 700px;
+   margin: 0;
+   margin-top: 50px;
+   font-weight: bold;
+   padding: 20 20 20 20;
+}
+  

@@ -1,0 +1,49 @@
+html{
+    background: url('Pictures/bluePattern.png'); 
+    background-size: 100%;
+}
+
+body{}
+
+h1 {
+    font-size: 60px;
+    color: darkblue;
+    text-align: center;
+}
+
+h2 {
+    font-size: 45px;
+    color: darkgreen;
+    text-align: center;
+}
+h3 {
+    font-size: 30px;
+    color: rgb(0,50,200);
+    text-align: center;
+}
+p {
+    color: rgb(0,0,255);
+    font-family: "Times New Roman";
+    font-size: 25px;
+    text-align: center;
+}
+a {
+    color: blue
+}
+form {
+    text-align:center;
+}
+	
+#mainPage {
+   position: center;
+   width: 700px;
+   height: 500px;
+   margin: 0;
+   margin-top: 50px;
+   font-weight: bold;
+   padding: 20 20 20 20;
+   border-bottom: solid 2px green;
+   border-top: solid 2px green;
+}
+
+  

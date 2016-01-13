@@ -1,0 +1,64 @@
+html{
+    background: lightblue;
+}
+
+body{
+    background: darkblue;
+}
+
+h1 {
+    font-size: 45px;
+    color: lightgreen;
+    text-align: center;
+}
+
+h2 {
+    font-size:30px;
+    font-weight: bold;
+    color: lightgreen;
+    text-align: left;
+}
+h3 {
+    font-size: 25px;
+    font-weight: bold;
+    color: lightgreen;
+    text-align: left;
+    text-indent: 20px;
+}
+h4 {
+    font-size: 28px;
+    font-weight: bold;
+    color: lightblue;
+    text-align: center;
+}
+p {
+    color: lightblue;
+    font-family: "Times New Roman";
+    font-size: 20px;
+    text-align: left;
+}
+ul li {
+    font-size: 20px;
+    color: lightblue;
+}
+
+a {
+    color: lightgreen;
+}
+#header{
+   position: right;
+   width: 500px;
+   height: 200px;
+   margin: 0;
+   padding: 0 0 20 20;
+   border-bottom: 2px solid green;
+}
+	
+#bodies{
+    position: right;
+    width: 500px;
+    height: 200px;
+    margin: 0;
+    padding: 0 0 20 80
+}
+    
